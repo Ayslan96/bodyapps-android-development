@@ -28,8 +28,4 @@ dependencies {
 
 }
 
-sonarqube {
-  properties {
-    property "sonar.projectKey", "bodyapps-android"
-  }
-}
+
